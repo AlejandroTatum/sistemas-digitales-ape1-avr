@@ -13,4 +13,4 @@ Integrantes: Melissa Contento, Jaime Landazuri, Alejandro Padilla Espinoza, Dome
 | D | [`parte-d/`](parte-d) | Código de la guía, simulado en Wokwi |
 | E | [`parte-e/`](parte-e) | [Godbolt](https://godbolt.org/z/MYTMrn811) |
 
-El informe en PDF se encuentra en [`informe/`](informe).
+El informe en PDF: [`informe/APE1_SistemasDigitales.pdf`](informe/APE1_SistemasDigitales.pdf).
