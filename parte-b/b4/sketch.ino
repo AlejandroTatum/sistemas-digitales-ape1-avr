@@ -13,6 +13,6 @@ void setup() {
 void loop() {
   PORTB = (1 << PORTB5);        // asignación: enciende PB5 y pone en 0 el resto de PORTB
   delay(500);
-  PORTB &= ~(1 << PORTB5);      // apaga PB5
+  PORTB = 0;                    // asignación: apaga PB5 escribiendo el byte completo en 0
   delay(500);
 }
